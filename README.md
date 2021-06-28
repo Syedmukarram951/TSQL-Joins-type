@@ -1,0 +1,1 @@
+# TSQL-Joins-type
